@@ -7,7 +7,7 @@ theme = "minimal"
     author = "Nonthawat Duangchai"
     description = "Software Engineer working for @KBTG and Counter-Strike: Global Offensive addict."
     copyright = " "
-    accent = "#E34E47"
+    accent = "red"
     showBorder = true
     backgroundColor = ""
     font = "Quicksand" # should match the name on Google Fonts!
@@ -16,6 +16,21 @@ theme = "minimal"
     url = "/"
     name = "Home"
     weight = 1
+
+[[menu.main]]
+    url = "/uses"
+    name = "Uses"
+    weight = 2
+
+[[menu.main]]
+    url = "/cv"
+    name = "CV"
+    weight = 3
+
+[[menu.main]]
+    url = "/about"
+    name = "About"
+    weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
@@ -45,3 +60,8 @@ theme = "minimal"
     url = "https://stackoverflow.com/users/11347563/nonthawat-duangchai"
     name = "stack-overflow"
     weight = 5
+
+[[menu.icon]]
+    url = "https://steamcommunity.com/id/n0nz"
+    name = "steam"
+    weight = 6
