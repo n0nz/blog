@@ -1,0 +1,47 @@
+baseURL = "http://n0nz.github.io"
+languageCode = "en-us"
+title = "Nonthawat Duangchai"
+theme = "minimal"
+
+[params]
+    author = "Nonthawat Duangchai"
+    description = "Software Engineer working for @KBTG and Counter-Strike: Global Offensive addict."
+    copyright = " "
+    accent = "#E34E47"
+    showBorder = true
+    backgroundColor = ""
+    font = "Quicksand" # should match the name on Google Fonts!
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:nonthawat.duangchai@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/n0nz/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/nonthawatdc/"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/nonthawat-duangchai-9356b9184/"
+    name = "linkedin"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://stackoverflow.com/users/11347563/nonthawat-duangchai"
+    name = "stack-overflow"
+    weight = 5
