@@ -7,9 +7,10 @@ theme = "minimal"
     author = "Nonthawat Duangchai"
     description = "Software Engineer working for @KBTG and Counter-Strike: Global Offensive addict."
     copyright = " "
-    accent = "red"
+    githubUsername = "n0nz"
+    accent = "#005cc5"
     showBorder = true
-    backgroundColor = ""
+    backgroundColor = "#e1e4e8"
     font = "Quicksand" # should match the name on Google Fonts!
 
 [[menu.main]]
@@ -28,9 +29,15 @@ theme = "minimal"
     weight = 3
 
 [[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 4
+
+
+[[menu.main]]
     url = "/about"
     name = "About"
-    weight = 4
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.

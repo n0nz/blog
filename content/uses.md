@@ -36,8 +36,10 @@ weight = "2"
 #### Software I daily use for software development:
 
 - **VSCode:** The awesome text editor I mostly use for text editing.
+- **Font:** [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)
+- **Theme:** [GitHub Primer](https://github.com/JetBrains/JetBrainsMono)
 - **Vim:** The awesome text editor and blastly fast! I only use for fast text editing (but I am not vim master. So I mainly use VSCode)
-- **IntelliJ IDEA Ultimate:** The main IDE I daily use in Go development.
+- **IntelliJ IDEA Ultimate:** The main IDE I daily use in Go development. I use it with [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) Font and My [GitHub Primer for GoLand](https://github.com/n0nz/github-primer-goland) with customized from One Dark colorscheme to use [GitHub Primer color palatte](https://primer.style/css/support/color-system)
 - **iTerm:** Terminal emulator
 - **Zsh with Oh-my-Zsh:** Making the zsh a lot of better with awesome plugins
 - **Firefox Developer Edition:** My main browser

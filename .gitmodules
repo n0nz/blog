@@ -1,7 +1,7 @@
 [submodule "public"]
-	path = public
-	url = git@github.com:n0nz/n0nz.github.io.git
-	branch = master
+path = public
+url = git@github.com:n0nz/n0nz.github.io.git
+branch = master
 [submodule "themes/minimal"]
-	path = themes/minimal
-	url = https://github.com/calintat/minimal.git
+path = themes/minimal
+url = https://github.com/calintat/minimal.git
