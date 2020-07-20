@@ -41,7 +41,7 @@ weight = "2"
 - **Vim:** The awesome text editor and blastly fast! I only use for fast text editing (but I am not vim master. So I mainly use VSCode)
 - **IntelliJ IDEA Ultimate:** The main IDE I daily use in Go development. I use it with [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) Font and My [GitHub Primer for GoLand](https://github.com/n0nz/github-primer-goland) with customized from One Dark colorscheme to use [GitHub Primer color palatte](https://primer.style/css/support/color-system)
 - **iTerm:** Terminal emulator
-- **Zsh with Oh-my-Zsh:** Making the zsh a lot of better with awesome plugins
+- **Zsh with Oh-my-Zsh:** Making the zsh a lot better with awesome plugins
 - **Firefox Developer Edition:** My main browser
 - **Alfred:** Launcher. I use Mono theme from [nikitavoloboev](https://wiki.nikitavoloboev.xyz/macos/macos-apps/alfred)
 - **Spotify:** Awesome music streaming app
